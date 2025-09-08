@@ -1,4 +1,36 @@
-## Products Project
+# 22 Products Project
+
+A JavaScript project that displays a list of products with the ability to search and filter them.  
+This project is great for practicing DOM manipulation, working with arrays/objects, and building dynamic user interfaces.
+
+---
+
+## Features
+- Display products with images, names, and prices  
+- Search products dynamically using text input  
+- Filter products by category  
+- Responsive design for different screen sizes  
+
+---
+
+## Built With
+- **HTML5** for structure  
+- **CSS3** for styling  
+- **JavaScript (ES6)** for interactivity  
+
+---
+
+## Demo Preview
+[22 Products Project](https://devliwa.github.io/22-products/index.html) 
+<img width="1279" height="636" alt="Screenshot 2025-09-08 at 12 20 52 PM" src="https://github.com/user-attachments/assets/ee7b538d-eea4-4389-bfc8-fbc6142d78b6" />
+
+
+---
+
+## What I Learned
+- Looping through arrays of objects and rendering content to the DOM  
+- Implementing search and filter features in JavaScript  
+- Building reusable UI components for product listings  
 
 #### Structure (HTML)
 
